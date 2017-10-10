@@ -1,4 +1,4 @@
 # Portfolio
 
-This is my first online portfolio profile
+This is my point two online portfolio profile
 
